@@ -9,6 +9,7 @@ int main(){
         sum=sum+(r*r*r);
         n=n/10;
     }
+    
     if (temp==sum)
     printf("armstrong number");
     else
